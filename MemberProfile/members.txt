@@ -1,0 +1,9 @@
+TWICE,Mina,Mina Myoui,03/24/1997,163,46
+TWICE,Tzuyu,Chou Tzuyu,06/14/1999,172,48
+TWICE,Nayeon,Im Nayeon,09/22/1995,163,47
+LOONA,Jinsoul,Jung Jin Sol,06/13/1997,164,47
+LOONA,Haseul,Cho Ha Seul,08/18/1997,159,43
+LOONA,Yves,Ha Soo Young,05/24/1997,164,46
+LOONA,Vivi,Wong Kahei,12/09/1996,-1,42
+LOONA,HeeJin,Jeon Hee Jin,10/19/2000,161,46
+LOONA,Choerry,Choi Ye Rim,06/04/2001,160,47

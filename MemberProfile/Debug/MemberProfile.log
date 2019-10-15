@@ -1,0 +1,3 @@
+﻿  MemberProfile.cpp
+c:\users\jj\source\repos\memberprofile\memberprofile\memberprofile.cpp(89): warning C4018: '<': signed/unsigned mismatch
+  MemberProfile.vcxproj -> C:\Users\JJ\source\repos\MemberProfile\Debug\MemberProfile.exe
